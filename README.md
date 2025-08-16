@@ -15,7 +15,6 @@ The tests validate core functionalities of the system such as:
 **Platform:** Hishabee Web (Dokan Management)  
 **Automation Tool:** Playwright  
 **Language:** JavaScript  
-**Test Runner:** Playwright Test  
 
 ## ✅ Test Cases Automated
 
