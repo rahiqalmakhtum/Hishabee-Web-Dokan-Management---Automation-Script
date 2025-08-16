@@ -64,18 +64,15 @@ Run with headed browser:
 ```
 npx playwright test --headed
 ```
-📸 Test Results
+## 📸 Test Results
 
 All tests were executed successfully.
 
 Screenshots and logs are available in the screenshots folder.
 
-💡 Suggestions for Improvement
+##💡 Suggestions for Improvement
 
-Add error validation for amount > 999999 (currently missing).
-
-Improve input field validation for mobile numbers (e.g. Phone number starts with 01)
-
-Change the error message for the invalid phone number to: Phone number must 11 digits long
-
-Add more descriptive error messages for better UX.
+1. Add error validation for amount > 999999 (currently missing).
+2. Improve input field validation for mobile numbers (e.g. Phone number starts with 01)
+3. Change the error message for the invalid phone number to: Phone number must 11 digits long
+4. Add more descriptive error messages for better UX.
