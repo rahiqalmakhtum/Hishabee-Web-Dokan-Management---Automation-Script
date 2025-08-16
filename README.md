@@ -70,7 +70,7 @@ All tests were executed successfully.
 
 Screenshots and logs are available in the screenshots folder.
 
-##💡 Suggestions for Improvement
+💡 Suggestions for Improvement
 
 1. Add error validation for amount > 999999 (currently missing).
 2. Improve input field validation for mobile numbers (e.g. Phone number starts with 01)
